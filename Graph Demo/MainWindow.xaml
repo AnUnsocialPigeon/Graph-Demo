@@ -1,0 +1,11 @@
+﻿<Window x:Class="Graph_Demo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Graph" Height="450" Width="800" Background="#FF101010">
+    <Grid>
+        <Canvas Name="Graph" Background="#ff303030" Width="772" Height="399" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="10"/>
+    </Grid>
+</Window>
